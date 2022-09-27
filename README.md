@@ -1,5 +1,8 @@
 <a href="https://github.com/pilosa"><img src="https://img.shields.io/badge/pilosa-v0.3.1-blue.svg"></a>
 
+This repo archived Sept 2022 as part of the transition from Pilosa to FeatureBase.
+Please contact community[at]featurebase[dot]com with any questions.
+
 View a static copy of the notebook directly on github, or download and run with ipython to try it yourself. 
 
 You'll need to set up the Pilosa index:
